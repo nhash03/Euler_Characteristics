@@ -1,0 +1,1 @@
+This repo contains required code to calculate Euler characteristics efficiently which can help with finding homology groups.
